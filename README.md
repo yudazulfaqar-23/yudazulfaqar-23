@@ -13,14 +13,12 @@ Selamat datang di profil GitHub saya! Saya memiliki minat dan keahlian di bidang
 ---
 
 ### 💻 Tools & Teknologi yang Digunakan
-![MikroTik](https://shields.io)
-![Cisco](https://shields.io)
-![Linux](https://shields.io)
-![Debian](https://shields.io)
-![Ubuntu](https://shields.io)
-![Windows](https://shields.io)
-
----
+[![MikroTik](https://shields.io)](https://mikrotik.com)
+[![Cisco](https://shields.io)](https://netacad.com)
+[![Linux](https://shields.io)](https://linux.org)
+[![Debian](https://shields.io)](https://debian.org)
+[![Ubuntu](https://shields.io)](https://ubuntu.com)
+[![Windows](https://shields.io)](https://microsoft.com)
 
 ### 🎯 Fokus Saat Ini
 * 🔭 Mendalami otomasi jaringan, administrasi server Linux, dan *cloud computing*.
