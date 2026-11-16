@@ -1,7 +1,33 @@
-### Halo, saya Yuds Zulfaqar 👋
+## Halo, saya Yuds Zulfaqar 👋
 
-Selamat datang di profil GitHub saya!
-- 🎓 Bidang minat: **Engineering & Technology**
-- 🌱 Saat ini sedang mendalami pengembangan proyek dan pemrograman
-- 📫 Hubungi saya melalui email atau media sosial yang tertera di profil
--
+Selamat datang di profil GitHub saya! Saya memiliki minat dan keahlian di bidang **Teknik Komputer dan Jaringan (TKJ)**, administrasi sistem, serta infrastruktur IT.
+
+---
+
+### 🛠️ Keahlian & Kompetensi TKJ
+* **Jaringan Komputer (Networking):** Konfigurasi Router & Switch, MikroTik (Routing, Firewall, Bandwidth Management, Hotspot), Cisco Packet Tracer, Subnetting, VLAN, dan Wireless Networking.
+* **Administrasi Server & OS:** Linux Server (Debian, Ubuntu), Windows Server, manajemen layanan jaringan (DNS, DHCP, Web Server Apache/Nginx, SSH, FTP).
+* **Hardware & Troubleshooting:** Perakitan PC, instalasi sistem operasi, perawatan perangkat keras, dan diagnosa kerusakan jaringan/komputer.
+* **Keamanan Jaringan Dasar:** Konfigurasi Firewall, VPN, serta keamanan akses jaringan lokal (LAN/WLAN).
+
+---
+
+### 💻 Tools & Teknologi yang Digunakan
+![MikroTik](https://shields.io)
+![Cisco](https://shields.io)
+![Linux](https://shields.io)
+![Debian](https://shields.io)
+![Ubuntu](https://shields.io)
+![Windows](https://shields.io)
+
+---
+
+### 🎯 Fokus Saat Ini
+* 🔭 Mendalami otomasi jaringan, administrasi server Linux, dan *cloud computing*.
+* 🌱 Membangun dokumentasi konfigurasi jaringan serta skrip dasar untuk mempermudah manajemen server.
+* 🤝 Terbuka untuk kolaborasi proyek IT, jaringan, maupun diskusi seputar teknologi.
+
+---
+
+### 📊 Statistik GitHub
+![Statistik GitHub Yuds](https://vercel.app)
