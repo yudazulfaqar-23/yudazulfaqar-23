@@ -1,31 +1,21 @@
-## Halo, saya Yuds Zulfaqar 👋
+# 💫 About Me:
+🔭 Saya sedang mendalami Teknik Komputer dan Jaringan (TKJ)<br>🌱 Saat ini sedang belajar MikroTik, Cisco, dan Administrasi Linux Server<br>💬 Tanyakan kepada saya seputar Jaringan Komputer, Routing, dan Troubleshooting Hardware<br>⚡ Fakta menarik: Hobi ngoprek server dan jaringan lokal<br>
 
-Selamat datang di profil GitHub saya! Saya memiliki minat dan keahlian di bidang **Teknik Komputer dan Jaringan (TKJ)**, administrasi sistem, serta infrastruktur IT.
 
----
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username= yudazulfaqar-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user= yudazulfaqar-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username= yudazulfaqar-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠️ Keahlian & Kompetensi TKJ
-* **Jaringan Komputer (Networking):** Konfigurasi Router & Switch, MikroTik (Routing, Firewall, Bandwidth Management, Hotspot), Cisco Packet Tracer, Subnetting, VLAN, dan Wireless Networking.
-* **Administrasi Server & OS:** Linux Server (Debian, Ubuntu), Windows Server, manajemen layanan jaringan (DNS, DHCP, Web Server Apache/Nginx, SSH, FTP).
-* **Hardware & Troubleshooting:** Perakitan PC, instalasi sistem operasi, perawatan perangkat keras, dan diagnosa kerusakan jaringan/komputer.
-* **Keamanan Jaringan Dasar:** Konfigurasi Firewall, VPN, serta keamanan akses jaringan lokal (LAN/WLAN).
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username= yudazulfaqar-23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 💻 Tools & Teknologi yang Digunakan
-[![MikroTik](https://shields.io)](https://mikrotik.com)
-[![Cisco](https://shields.io)](https://netacad.com)
-[![Linux](https://shields.io)](https://linux.org)
-[![Debian](https://shields.io)](https://debian.org)
-[![Ubuntu](https://shields.io)](https://ubuntu.com)
-[![Windows](https://shields.io)](https://microsoft.com)
-
-### 🎯 Fokus Saat Ini
-* 🔭 Mendalami otomasi jaringan, administrasi server Linux, dan *cloud computing*.
-* 🌱 Membangun dokumentasi konfigurasi jaringan serta skrip dasar untuk mempermudah manajemen server.
-* 🤝 Terbuka untuk kolaborasi proyek IT, jaringan, maupun diskusi seputar teknologi.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username= yudazulfaqar-23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Statistik GitHub
-![Statistik GitHub Yuds](https://vercel.app)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
