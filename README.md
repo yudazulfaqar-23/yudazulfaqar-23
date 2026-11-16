@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&lines=Welcome+to+My+GitHub+Profile!;Yuds+Zulfaqar+%7C+Teknik+Komputer+dan+Jaringan+%28TKJ%29;Linux+Server%2C+MikroTik+%26+Cisco+Enthusiast)](https://git.io/typing-svg)
+
 
 ### <div align="center">Halo, saya Yuds Zulfaqar 👋 — Siswa Teknik Komputer dan Jaringan (TKJ)</div>  
   
